@@ -3,7 +3,7 @@ Test task for job application
 
 Tecknologies:
 - Unity 2021.1
-- [DOTween](http://dotween.demigiant.com/)
+- [DOTween](http://dotween.demigiant.com/) package for procedural animation
 - Unity Animations
 
 gameplay demo: https://youtu.be/uqPPldFkgAU
