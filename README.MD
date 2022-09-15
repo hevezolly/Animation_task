@@ -1,3 +1,10 @@
-[видео демонстрация](https://youtu.be/uqPPldFkgAU)
+# Animation integration
+Test task for job application
 
-Unity 2021.1
+Tecknologies:
+- Unity 2021.1
+- [DOTween](http://dotween.demigiant.com/)
+- Unity Animations
+
+gameplay demo: https://youtu.be/uqPPldFkgAU
+
